@@ -1,13 +1,7 @@
 #!/usr/bin/env python
 #-----------------------------------------------------------------------------
-# File Name : spikeConv2d.py
-# Author: Emre Neftci
-#
-# Creation Date : Mon 16 Jul 2018 09:56:30 PM MDT
-# Last Modified : Mon 01 Oct 2018 04:48:59 PM PDT
-#
-# Copyright : (c) UC Regents, Emre Neftci
-# Licence : Apache License, Version 2.0
+# File Name : thom_gesture.py
+# Author: Tielin Zhang in CASIA
 #-----------------------------------------------------------------------------
 # from dcll.pytorch_libdcll import *
 # from dcll.experiment_tools import *

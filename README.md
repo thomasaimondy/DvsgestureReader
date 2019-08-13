@@ -1,3 +1,3 @@
-# DvsguestureReader, Tielin Zhang in CASIA.
+# DvsguestureReader.
 
 Read the DVSGuesture by python code. 
